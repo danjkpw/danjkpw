@@ -16,6 +16,7 @@ Secure Diary - Mini projects with login features with hashmap.
 📫 Let's Connect:
 Email: jakrapatwpd@gmail.com
 
+Feel free to check out my projects!
 I am eager to collaborate on interesting projects and continue learning in the tech field. Feel free to reach out for discussions or collaborations!
 <!---
 danjkpw/danjkpw is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
